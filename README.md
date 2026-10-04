@@ -1,10 +1,8 @@
-# ✨ brilliannauval
+# brilliannauval
 
-**`Software Engineer | AI & Cybersecurity Enthusiast | Creative Technologist`**
+**`Fullstack Web Developer | Security Analyst | Data Science`**
 
-I'm an Informatics student at **Institut Teknologi Sepuluh Nopember (ITS)**, Surabaya. I split my time between shipping code and leading people - currently serving as **Project Officer for Schematics 2026** and **Staff of Student Resources Development (SRD) at HMTC 2026**.
-
-> *"jadilah taman, bukan lebah"* - be the garden, not the bee. Build value, don't just chase relevance.
+Informatics student at **Institut Teknologi Sepuluh Nopember (ITS)**, Surabaya. I build secure, data-driven web applications and focus on three areas: full-stack web development, cybersecurity analysis, and data science.
 
 <p align="left">
    <a href="https://github.com/brilliannauval?tab=followers">
@@ -15,17 +13,29 @@ I'm an Informatics student at **Institut Teknologi Sepuluh Nopember (ITS)**, Sur
 
 ---
 
-### 🧭 About Me
+### About Me
 
-I'm a third-year **Informatics International Undergraduate Program (IUP)** student at ITS and a passionate developer dedicated to building impactful digital solutions.
+I am a third-year student in the **Informatics International Undergraduate Program (IUP)** at ITS. My work combines three disciplines:
 
-My expertise dynamically bridges **Software Engineering**, **Artificial Intelligence**, and **Cybersecurity** principles. Driven by technical curiosity and strong leadership acumen, I thrive on engineering secure, intelligent applications while effectively guiding high-impact teams.
+- **Full-Stack Web Development:** Designing and building responsive, maintainable web applications with modern JavaScript/TypeScript frameworks and relational databases.
+- **Cybersecurity:** Developing a career as a **Security Analyst** through the **SMT Program**, with a focus on identifying vulnerabilities, analyzing threats, and applying secure development practices.
+- **Data Science:** Applying machine learning and data analysis to extract insights and build intelligent applications.
 
-**Currently:** Project Officer for **Schematics 2026** - organizing a nationally-scoped student competition/event and managing cross-division collaboration at scale.
+I aim to build software that is not only functional and data-informed, but also secure by design.
+
+**Currently:** Developing my skills as a Security Analyst through the SMT Program while building full-stack and data-driven projects.
 
 ---
 
-### 🧰 Languages & Tools
+### Featured Project
+
+**[brilliannauval.online](https://brilliannauval.online)**: Personal portfolio website presenting my projects, skills, and experience in software engineering, AI, and cybersecurity.
+
+**[InfoMabaITS.com](https://infomabaits.com)**: Co-founder and frontend developer of an information platform for new students at ITS.
+
+---
+
+### Languages & Tools
 
 **Languages:** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -41,7 +51,7 @@ My expertise dynamically bridges **Software Engineering**, **Artificial Intellig
 **Backend & Database:** ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**ML/Data Science:** ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+**Data Science & Machine Learning:** ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -59,19 +69,13 @@ My expertise dynamically bridges **Software Engineering**, **Artificial Intellig
 
 ---
 
-### 🌐 Languages I Speak
-
-Indonesian • English • Javanese • Arabic • Mandarin (learning) • Korean (learning)
-
----
-
-### 📊 GitHub Stats
+### GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=brilliannauval&theme=gruvbox&border_radius=4.5)
 
 ---
 
-### 📫 Connect
+### Connect
 
 <p align="left">
    <a href="https://github.com/brilliannauval">
